@@ -1,10 +1,10 @@
 # Rabbit Jump 
 
-##Introduction
+## Introduction
 
 This game is a semester project for the course EE2003-Computer Organization & Assembly Language (COAL). It was written in 16-bit x86 assembly.   
 
-##Install
+## Install
 
 You need to download [NASM Assembler](https://www.nasm.us/) to assemble the code and [DOSBox](https://www.dosbox.com/download.php?main=1) to emulate real mode.  
 
